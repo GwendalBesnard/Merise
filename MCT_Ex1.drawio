@@ -1,1 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:54:13.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.6.6" etag="6g_kjOfAfkdnoWL1fBsa" type="github"><diagram id="WWr4aDMTfHQDkcVUxGCE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:16:14.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mOk9Bnj7_dQRqWQLZBmT" version="16.6.6" type="github">
+  <diagram id="WWr4aDMTfHQDkcVUxGCE" name="Page-1">
+    <mxGraphModel dx="1038" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-1" value="Demande CB" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-2" value="Traitement demande" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-3" value="OP1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-6" target="_ISTVUI6OvjRX1HSTE76-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-6" value="Pas Client" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-7" target="_ISTVUI6OvjRX1HSTE76-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-7" value="Client" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-9" value="Demandes quotidiennes envoyer au centre de gestion" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-11" value="Demandeur averti du refus" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_ISTVUI6OvjRX1HSTE76-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-13" value="Réception des CB" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-14" value="Préparation des avis" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-15" value="OP2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="175" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-17" target="_ISTVUI6OvjRX1HSTE76-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-17" value="Toujours" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="205" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-18" target="_ISTVUI6OvjRX1HSTE76-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-18" value="Avis émis (B)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_ISTVUI6OvjRX1HSTE76-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-21" value="Le client vient retirer sa carte (A)" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-22" value="A et B ou A" style="triangle;strokeWidth=1;rotation=90;textDirection=ltr;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-24" value="Retrait de CB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-25" value="OP3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-26" target="_ISTVUI6OvjRX1HSTE76-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-26" value="CB Ok" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-27" target="_ISTVUI6OvjRX1HSTE76-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-27" value="Pas de CB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-28" value="CB donnée" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-30" value="CB pas donnée" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-36" target="_ISTVUI6OvjRX1HSTE76-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-36" value="CB non retirée au bout de 2 mois (C)" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-41" value="Destruction de carte" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="355" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-42" value="OP4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ISTVUI6OvjRX1HSTE76-43" target="_ISTVUI6OvjRX1HSTE76-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-43" value="Toujours" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-44" value="C et B ou C" style="triangle;strokeWidth=1;rotation=90;textDirection=ltr;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="285" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ISTVUI6OvjRX1HSTE76-47" value="CB détruite" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="470" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
